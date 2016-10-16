@@ -1,2 +1,1 @@
-# openBookProject-p2
-V^th - Python Exercise book
+Some Python exercises from a python book @ www.openbookproject.net
