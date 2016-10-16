@@ -1,1 +1,1 @@
-Some Python exercises from a python book @ www.openbookproject.net
+Some python exercises from a book @ www.openbookproject.net
